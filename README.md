@@ -24,8 +24,9 @@
 
 ## 설치
 
-Claude Code에게 아래 GitHub 링크를 주고 설치를 부탁하면 된다:
+Claude Code에게 아래 프롬프트를 복사해서 설치를 부탁하면 된다:
 
+#### 설치 프롬프트
 ```
 이 스킬 설치해줘 → https://github.com/Tod8Cruz/skill-document-review
 ```
