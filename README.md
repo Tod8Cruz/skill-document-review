@@ -26,7 +26,9 @@
 
 Claude Code에게 아래 GitHub 링크를 주고 설치를 부탁하면 된다:
 
-> 이 스킬 설치해줘 → https://github.com/Tod8Cruz/skill-document-review
+```
+이 스킬 설치해줘 → https://github.com/Tod8Cruz/skill-document-review
+```
 
 Claude가 저장소를 `~/.claude/skills/document-review/`에 클론해 준다. **새 세션을 시작하면**
 스킬이 로드된다.
